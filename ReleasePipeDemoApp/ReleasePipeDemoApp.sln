@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp", "ReleasePipeDemoApp\ReleasePipeDemoApp.csproj", "{99643E90-DB93-40DF-932D-109B45E3B0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleasePipeDemoApp.Tests", "ReleasePipeDemoApp.Tests\ReleasePipeDemoApp.Tests.csproj", "{53384299-5808-4284-B1D9-D19587AD8D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99643E90-DB93-40DF-932D-109B45E3B0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99643E90-DB93-40DF-932D-109B45E3B0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99643E90-DB93-40DF-932D-109B45E3B0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99643E90-DB93-40DF-932D-109B45E3B0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53384299-5808-4284-B1D9-D19587AD8D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53384299-5808-4284-B1D9-D19587AD8D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53384299-5808-4284-B1D9-D19587AD8D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53384299-5808-4284-B1D9-D19587AD8D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D18F393-2EFD-431C-9EA6-F52A28347735}
+	EndGlobalSection
+EndGlobal
